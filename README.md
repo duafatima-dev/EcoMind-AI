@@ -26,8 +26,6 @@ All posts appear in a **community feed**, creating a shared green diary of local
 EcoMind is built for climate awareness.  
 Instead of just *talking* about sustainability, EcoMind helps communities take small but meaningful steps — noticing, recording, and appreciating green life around them.  
 
-## 📸 Demo Screenshot
-*(Add your app screenshot here)*  
 
 ## 🖥️ Run Locally
 Clone this repo and run:
